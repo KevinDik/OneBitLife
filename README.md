@@ -35,7 +35,7 @@ Aplicação promete gerenciar atraves de gameficação as tarefas diárias com b
 ### :iphone: Imagens
 <h4>Tela inicial</h4>
 <img src="./github/initialPage.jpeg" style="width: 100px">
-<p>Apresentação do robô com as primeiras impressões da aplicação</p>
+<img src="./github/explanationCard.jpeg" style="width: 100px">
 
 ---
 
